@@ -1,0 +1,7 @@
+env:
+  image_size: 64
+  channels: 3
+  dot_radius: 2
+  step_scale: 2.5
+  action_dim: 2
+  use_wall: false

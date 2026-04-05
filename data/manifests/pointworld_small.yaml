@@ -1,0 +1,7 @@
+name: pointworld_small
+num_trajectories: 500
+trajectory_length: 32
+image_size: 64
+dot_radius: 2
+step_scale: 2.5
+seed: 42

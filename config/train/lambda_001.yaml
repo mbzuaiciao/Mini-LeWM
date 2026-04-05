@@ -1,0 +1,5 @@
+experiment:
+  name: pointworld_cnn_mlp_lambda001
+
+loss:
+  lambda_sigreg: 0.01
